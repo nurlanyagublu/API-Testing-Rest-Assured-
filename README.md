@@ -30,9 +30,9 @@ $env:API_KEY = "your_api_key"
 
 Then run the tests using your project’s build tool or IDE.
 
-Project structure
-AssertionsInsideOfTheChainOfFunctionsTest.java — assertions within REST Assured request chains
-ExtractingResponseTest.java — extracts response values and verifies them with JUnit assertions
-Task3/ApiLoadedTestDataTest.java — loads football test data from the API before running tests
-Task3/FootballTestData.java — holds the loaded team and league data
-Task3/FootballTestDataLoader.java — retrieves test data from the API
+## Project structure
+- AssertionsInsideOfTheChainOfFunctionsTest.java — assertions within REST Assured request chains
+- ExtractingResponseTest.java — extracts response values and verifies them with JUnit assertions
+- Task3/ApiLoadedTestDataTest.java — loads football test data from the API before running tests
+- Task3/FootballTestData.java — holds the loaded team and league data
+- Task3/FootballTestDataLoader.java — retrieves test data from the API
