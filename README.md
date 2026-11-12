@@ -25,8 +25,8 @@ The tests read the API key from the `API_KEY` environment variable. Keep your ke
 In PowerShell:
 
 ```powershell
-$env:API_KEY = "your_api_key"
-
+$env:API_KEY = "your_api_key" 
+```
 
 Then run the tests using your project’s build tool or IDE.
 
